@@ -1,2 +1,5 @@
 # cb2330-portfolio
-CB2330 course exercises and programming portfolio.
+
+Portfolio for CB2330 Scientific Computing for the Life Sciences.
+
+Student: Guanyang Li
